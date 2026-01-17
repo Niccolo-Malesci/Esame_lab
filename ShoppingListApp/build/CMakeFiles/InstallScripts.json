@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/cmake_install.cmake",
+		"C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/googletest-main/cmake_install.cmake",
+		"C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/googletest-main/googlemock/cmake_install.cmake",
+		"C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/googletest-main/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -3,17 +3,38 @@
 
 #include "Observer.h"
 #include "ShoppingList.h"
+#include <vector>
 
 class User : public Observer {
-    int lastKnownItemCount = 0;
+    std::vector<ShoppingList*> myLists;           
+    std::vector<ShoppingItem> lastKnownItems;     
 
 public:
-    void update(ShoppingList* list) override {
-        lastKnownItemCount = list->getItemCount();
+    void addList(ShoppingList* list) {
+        myLists.push_back(list);
+        list->attach(this);
+        update(list); 
     }
 
-    int getLastKnownItemCount() const {
-        return lastKnownItemCount;
+    void removeList(ShoppingList* list) {
+        myLists.erase(std::remove(myLists.begin(), myLists.end(), list), myLists.end());
+        list->detach(this);
+    }
+
+    void update(ShoppingList* list) override {
+        lastKnownItems = list->getItems();
+    }
+
+    size_t getLastKnownItemCount() const {
+        return lastKnownItems.size();
+    }
+
+    const std::vector<ShoppingItem>& getLastKnownItems() const {
+        return lastKnownItems;
+    }
+
+    const std::vector<ShoppingList*>& getLists() const {
+        return myLists;
     }
 };
 

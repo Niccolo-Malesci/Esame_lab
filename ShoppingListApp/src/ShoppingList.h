@@ -13,21 +13,40 @@ class ShoppingList : public Subject {
 public:
     void addItem(const ShoppingItem& item) {
         items.push_back(item);
+        notifyObservers();
     }
 
     void removeLastItem() {
         if (!items.empty()) {
             items.pop_back();
+            notifyObservers();
         }
     }
 
-    int getItemCount() const {
+    size_t getItemCount() const {
         return items.size();
     }
 
-    void attach(Observer* o) override {}
-    void detach(Observer* o) override {}
-    void notifyObservers() override {}
+    const std::vector<ShoppingItem>& getItems() const {
+        return items;
+    }
+
+    void attach(Observer* o) override {
+        observers.push_back(o);
+    }
+
+    void detach(Observer* o) override {
+        observers.erase(
+            std::remove(observers.begin(), observers.end(), o),
+            observers.end()
+        );
+    }
+
+    void notifyObservers() override {
+        for (Observer* o : observers) {
+            o->update(this);
+        }
+    }
 };
 
 #endif
