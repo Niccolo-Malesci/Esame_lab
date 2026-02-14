@@ -7,3 +7,4 @@ cd build
 cmake ..
 cmake --build . --config Debug
 Debug\runTests.exe
+Debug\runMain.exe

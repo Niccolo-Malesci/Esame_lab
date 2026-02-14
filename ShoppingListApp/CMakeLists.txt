@@ -17,5 +17,11 @@ add_executable(runTests
     tests/SharedListTest.cpp
 )
 
+add_executable(runMain
+    src/main.cpp
+)
+
+target_include_directories(runMain PRIVATE src)
+
 target_include_directories(runTests PRIVATE src)
 target_link_libraries(runTests PRIVATE gtest gtest_main)

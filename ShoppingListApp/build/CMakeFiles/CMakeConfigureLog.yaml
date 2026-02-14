@@ -92,7 +92,7 @@ events:
       The output was:
       0
       Versione di MSBuild 18.3.0-preview-26055-07+fb775842a per .NET Framework
-      Compilazione avviata 17/01/2026 20:24:40.
+      Compilazione avviata 19/01/2026 15:49:56.
       
       Progetto "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\4.2.1\\CompilerIdC\\CompilerIdC.vcxproj" sul nodo 1 (destinazioni predefinite).
       PrepareForBuild:
@@ -121,7 +121,7 @@ events:
           Avvisi: 0
           Errori: 0
       
-      Tempo trascorso 00:00:00.63
+      Tempo trascorso 00:00:00.64
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -780,7 +780,7 @@ events:
       The output was:
       0
       Versione di MSBuild 18.3.0-preview-26055-07+fb775842a per .NET Framework
-      Compilazione avviata 17/01/2026 20:24:41.
+      Compilazione avviata 19/01/2026 15:49:57.
       
       Progetto "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\4.2.1\\CompilerIdCXX\\CompilerIdCXX.vcxproj" sul nodo 1 (destinazioni predefinite).
       PrepareForBuild:
@@ -809,7 +809,7 @@ events:
           Avvisi: 0
           Errori: 0
       
-      Tempo trascorso 00:00:00.43
+      Tempo trascorso 00:00:00.46
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -1145,8 +1145,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-fvz1jj"
-      binary: "C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-fvz1jj"
+      source: "C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-fp2pc4"
+      binary: "C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-fp2pc4"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -1155,39 +1155,39 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-fvz1jj'
+        Change Dir: 'C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-fp2pc4'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_b6504.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_7495d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
         Versione di MSBuild 18.3.0-preview-26055-07+fb775842a per .NET Framework
-        Compilazione avviata 17/01/2026 20:24:42.
+        Compilazione avviata 19/01/2026 15:49:58.
         
-        Progetto "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-fvz1jj\\cmTC_b6504.vcxproj" sul nodo 1 (destinazioni predefinite).
+        Progetto "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-fp2pc4\\cmTC_7495d.vcxproj" sul nodo 1 (destinazioni predefinite).
         PrepareForBuild:
           L'output strutturato ├¿ abilitato. La formattazione della diagnostica del compilatore rifletter├á la gerarchia degli errori. Per altri dettagli, vedere https://aka.ms/cpp/structured-output.
-          Creazione directory "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-fvz1jj\\Debug\\".
-          Creazione directory "cmTC_b6504.dir\\Debug\\cmTC_b6504.tlog\\".
+          Creazione directory "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-fp2pc4\\Debug\\".
+          Creazione directory "cmTC_7495d.dir\\Debug\\cmTC_7495d.tlog\\".
         InitializeBuildStatus:
-          Creazione di "cmTC_b6504.dir\\Debug\\cmTC_b6504.tlog\\unsuccessfulbuild". ├ê stato specificato "AlwaysCreate".
-          Aggiornamento timestamp di "cmTC_b6504.dir\\Debug\\cmTC_b6504.tlog\\unsuccessfulbuild".
+          Creazione di "cmTC_7495d.dir\\Debug\\cmTC_7495d.tlog\\unsuccessfulbuild". ├ê stato specificato "AlwaysCreate".
+          Aggiornamento timestamp di "cmTC_7495d.dir\\Debug\\cmTC_7495d.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_b6504.dir\\Debug\\\\" /Fd"cmTC_b6504.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_7495d.dir\\Debug\\\\" /Fd"cmTC_7495d.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ Optimizing Compiler versione 19.50.35722 per x64
           Copyright (C) Microsoft Corporation. Tutti i diritti  sono riservati.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_b6504.dir\\Debug\\\\" /Fd"cmTC_b6504.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_7495d.dir\\Debug\\\\" /Fd"cmTC_7495d.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-fvz1jj\\Debug\\cmTC_b6504.exe" /INCREMENTAL /ILK:"cmTC_b6504.dir\\Debug\\cmTC_b6504.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-fvz1jj/Debug/cmTC_b6504.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-fvz1jj/Debug/cmTC_b6504.lib" /MACHINE:X64  /machine:x64 cmTC_b6504.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_b6504.vcxproj -> C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-fvz1jj\\Debug\\cmTC_b6504.exe
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-fp2pc4\\Debug\\cmTC_7495d.exe" /INCREMENTAL /ILK:"cmTC_7495d.dir\\Debug\\cmTC_7495d.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-fp2pc4/Debug/cmTC_7495d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-fp2pc4/Debug/cmTC_7495d.lib" /MACHINE:X64  /machine:x64 cmTC_7495d.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_7495d.vcxproj -> C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-fp2pc4\\Debug\\cmTC_7495d.exe
         FinalizeBuildStatus:
-          Eliminazione del file "cmTC_b6504.dir\\Debug\\cmTC_b6504.tlog\\unsuccessfulbuild" in corso.
-          Aggiornamento timestamp di "cmTC_b6504.dir\\Debug\\cmTC_b6504.tlog\\cmTC_b6504.lastbuildstate".
-        Compilazione progetto "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-fvz1jj\\cmTC_b6504.vcxproj" (destinazioni predefinite) completata.
+          Eliminazione del file "cmTC_7495d.dir\\Debug\\cmTC_7495d.tlog\\unsuccessfulbuild" in corso.
+          Aggiornamento timestamp di "cmTC_7495d.dir\\Debug\\cmTC_7495d.tlog\\cmTC_7495d.lastbuildstate".
+        Compilazione progetto "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-fp2pc4\\cmTC_7495d.vcxproj" (destinazioni predefinite) completata.
         
         Compilazione completata.
             Avvisi: 0
             Errori: 0
         
-        Tempo trascorso 00:00:00.42
+        Tempo trascorso 00:00:00.39
         
       exitCode: 0
   -
@@ -1227,8 +1227,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-gxde7s"
-      binary: "C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-gxde7s"
+      source: "C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-aqifrf"
+      binary: "C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-aqifrf"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -1238,39 +1238,39 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-gxde7s'
+        Change Dir: 'C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-aqifrf'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_c3959.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_0ace9.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
         Versione di MSBuild 18.3.0-preview-26055-07+fb775842a per .NET Framework
-        Compilazione avviata 17/01/2026 20:24:43.
+        Compilazione avviata 19/01/2026 15:49:59.
         
-        Progetto "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gxde7s\\cmTC_c3959.vcxproj" sul nodo 1 (destinazioni predefinite).
+        Progetto "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-aqifrf\\cmTC_0ace9.vcxproj" sul nodo 1 (destinazioni predefinite).
         PrepareForBuild:
           L'output strutturato ├¿ abilitato. La formattazione della diagnostica del compilatore rifletter├á la gerarchia degli errori. Per altri dettagli, vedere https://aka.ms/cpp/structured-output.
-          Creazione directory "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gxde7s\\Debug\\".
-          Creazione directory "cmTC_c3959.dir\\Debug\\cmTC_c3959.tlog\\".
+          Creazione directory "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-aqifrf\\Debug\\".
+          Creazione directory "cmTC_0ace9.dir\\Debug\\cmTC_0ace9.tlog\\".
         InitializeBuildStatus:
-          Creazione di "cmTC_c3959.dir\\Debug\\cmTC_c3959.tlog\\unsuccessfulbuild". ├ê stato specificato "AlwaysCreate".
-          Aggiornamento timestamp di "cmTC_c3959.dir\\Debug\\cmTC_c3959.tlog\\unsuccessfulbuild".
+          Creazione di "cmTC_0ace9.dir\\Debug\\cmTC_0ace9.tlog\\unsuccessfulbuild". ├ê stato specificato "AlwaysCreate".
+          Aggiornamento timestamp di "cmTC_0ace9.dir\\Debug\\cmTC_0ace9.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_c3959.dir\\Debug\\\\" /Fd"cmTC_c3959.dir\\Debug\\vc145.pdb" /external:W3 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_0ace9.dir\\Debug\\\\" /Fd"cmTC_0ace9.dir\\Debug\\vc145.pdb" /external:W3 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ Optimizing Compiler versione 19.50.35722 per x64
           Copyright (C) Microsoft Corporation. Tutti i diritti  sono riservati.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_c3959.dir\\Debug\\\\" /Fd"cmTC_c3959.dir\\Debug\\vc145.pdb" /external:W3 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_0ace9.dir\\Debug\\\\" /Fd"cmTC_0ace9.dir\\Debug\\vc145.pdb" /external:W3 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gxde7s\\Debug\\cmTC_c3959.exe" /INCREMENTAL /ILK:"cmTC_c3959.dir\\Debug\\cmTC_c3959.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-gxde7s/Debug/cmTC_c3959.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-gxde7s/Debug/cmTC_c3959.lib" /MACHINE:X64  /machine:x64 cmTC_c3959.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_c3959.vcxproj -> C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gxde7s\\Debug\\cmTC_c3959.exe
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-aqifrf\\Debug\\cmTC_0ace9.exe" /INCREMENTAL /ILK:"cmTC_0ace9.dir\\Debug\\cmTC_0ace9.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-aqifrf/Debug/cmTC_0ace9.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-aqifrf/Debug/cmTC_0ace9.lib" /MACHINE:X64  /machine:x64 cmTC_0ace9.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_0ace9.vcxproj -> C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-aqifrf\\Debug\\cmTC_0ace9.exe
         FinalizeBuildStatus:
-          Eliminazione del file "cmTC_c3959.dir\\Debug\\cmTC_c3959.tlog\\unsuccessfulbuild" in corso.
-          Aggiornamento timestamp di "cmTC_c3959.dir\\Debug\\cmTC_c3959.tlog\\cmTC_c3959.lastbuildstate".
-        Compilazione progetto "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gxde7s\\cmTC_c3959.vcxproj" (destinazioni predefinite) completata.
+          Eliminazione del file "cmTC_0ace9.dir\\Debug\\cmTC_0ace9.tlog\\unsuccessfulbuild" in corso.
+          Aggiornamento timestamp di "cmTC_0ace9.dir\\Debug\\cmTC_0ace9.tlog\\cmTC_0ace9.lastbuildstate".
+        Compilazione progetto "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-aqifrf\\cmTC_0ace9.vcxproj" (destinazioni predefinite) completata.
         
         Compilazione completata.
             Avvisi: 0
             Errori: 0
         
-        Tempo trascorso 00:00:00.39
+        Tempo trascorso 00:00:00.44
         
       exitCode: 0
   -
@@ -1313,8 +1313,8 @@ events:
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-k4xxi5"
-      binary: "C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-k4xxi5"
+      source: "C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-6q5mla"
+      binary: "C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-6q5mla"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -1323,39 +1323,39 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-k4xxi5'
+        Change Dir: 'C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-6q5mla'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_43284.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_c5a97.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
         Versione di MSBuild 18.3.0-preview-26055-07+fb775842a per .NET Framework
-        Compilazione avviata 17/01/2026 20:24:44.
+        Compilazione avviata 19/01/2026 15:49:59.
         
-        Progetto "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-k4xxi5\\cmTC_43284.vcxproj" sul nodo 1 (destinazioni predefinite).
+        Progetto "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6q5mla\\cmTC_c5a97.vcxproj" sul nodo 1 (destinazioni predefinite).
         PrepareForBuild:
           L'output strutturato ├¿ abilitato. La formattazione della diagnostica del compilatore rifletter├á la gerarchia degli errori. Per altri dettagli, vedere https://aka.ms/cpp/structured-output.
-          Creazione directory "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-k4xxi5\\Debug\\".
-          Creazione directory "cmTC_43284.dir\\Debug\\cmTC_43284.tlog\\".
+          Creazione directory "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6q5mla\\Debug\\".
+          Creazione directory "cmTC_c5a97.dir\\Debug\\cmTC_c5a97.tlog\\".
         InitializeBuildStatus:
-          Creazione di "cmTC_43284.dir\\Debug\\cmTC_43284.tlog\\unsuccessfulbuild". ├ê stato specificato "AlwaysCreate".
-          Aggiornamento timestamp di "cmTC_43284.dir\\Debug\\cmTC_43284.tlog\\unsuccessfulbuild".
+          Creazione di "cmTC_c5a97.dir\\Debug\\cmTC_c5a97.tlog\\unsuccessfulbuild". ├ê stato specificato "AlwaysCreate".
+          Aggiornamento timestamp di "cmTC_c5a97.dir\\Debug\\cmTC_c5a97.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_43284.dir\\Debug\\\\" /Fd"cmTC_43284.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-k4xxi5\\src.c"
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_c5a97.dir\\Debug\\\\" /Fd"cmTC_c5a97.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6q5mla\\src.c"
           Microsoft (R) C/C++ Optimizing Compiler versione 19.50.35722 per x64
           Copyright (C) Microsoft Corporation. Tutti i diritti  sono riservati.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_43284.dir\\Debug\\\\" /Fd"cmTC_43284.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-k4xxi5\\src.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_c5a97.dir\\Debug\\\\" /Fd"cmTC_c5a97.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6q5mla\\src.c"
           src.c
-        C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-k4xxi5\\src.c(1,10): error C1083: Non ├¿ possibile aprire il file inclusione: 'pthread.h': No such file or directory [C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-k4xxi5\\cmTC_43284.vcxproj]
-        Compilazione progetto "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-k4xxi5\\cmTC_43284.vcxproj" (destinazioni predefinite) NON COMPLETATA.
+        C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6q5mla\\src.c(1,10): error C1083: Non ├¿ possibile aprire il file inclusione: 'pthread.h': No such file or directory [C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6q5mla\\cmTC_c5a97.vcxproj]
+        Compilazione progetto "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6q5mla\\cmTC_c5a97.vcxproj" (destinazioni predefinite) NON COMPLETATA.
         
         Compilazione NON RIUSCITA.
         
-        "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-k4xxi5\\cmTC_43284.vcxproj" (destinazione predefinita) (1) ->
+        "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6q5mla\\cmTC_c5a97.vcxproj" (destinazione predefinita) (1) ->
         (destinazione: ClCompile) -> 
-          C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-k4xxi5\\src.c(1,10): error C1083: Non ├¿ possibile aprire il file inclusione: 'pthread.h': No such file or directory [C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-k4xxi5\\cmTC_43284.vcxproj]
+          C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6q5mla\\src.c(1,10): error C1083: Non ├¿ possibile aprire il file inclusione: 'pthread.h': No such file or directory [C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6q5mla\\cmTC_c5a97.vcxproj]
         
             Avvisi: 0
             Errori: 1
         
-        Tempo trascorso 00:00:00.27
+        Tempo trascorso 00:00:00.29
         
       exitCode: 1
   -
@@ -1369,8 +1369,8 @@ events:
     checks:
       - "Looking for pthread_create in pthreads"
     directories:
-      source: "C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-vw69c6"
-      binary: "C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-vw69c6"
+      source: "C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-vmk8cq"
+      binary: "C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-vmk8cq"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -1379,41 +1379,41 @@ events:
       variable: "CMAKE_HAVE_PTHREADS_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-vw69c6'
+        Change Dir: 'C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-vmk8cq'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_8eb73.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_d343e.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
         Versione di MSBuild 18.3.0-preview-26055-07+fb775842a per .NET Framework
-        Compilazione avviata 17/01/2026 20:24:44.
+        Compilazione avviata 19/01/2026 15:50:00.
         
-        Progetto "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vw69c6\\cmTC_8eb73.vcxproj" sul nodo 1 (destinazioni predefinite).
+        Progetto "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vmk8cq\\cmTC_d343e.vcxproj" sul nodo 1 (destinazioni predefinite).
         PrepareForBuild:
           L'output strutturato ├¿ abilitato. La formattazione della diagnostica del compilatore rifletter├á la gerarchia degli errori. Per altri dettagli, vedere https://aka.ms/cpp/structured-output.
-          Creazione directory "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vw69c6\\Debug\\".
-          Creazione directory "cmTC_8eb73.dir\\Debug\\cmTC_8eb73.tlog\\".
+          Creazione directory "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vmk8cq\\Debug\\".
+          Creazione directory "cmTC_d343e.dir\\Debug\\cmTC_d343e.tlog\\".
         InitializeBuildStatus:
-          Creazione di "cmTC_8eb73.dir\\Debug\\cmTC_8eb73.tlog\\unsuccessfulbuild". ├ê stato specificato "AlwaysCreate".
-          Aggiornamento timestamp di "cmTC_8eb73.dir\\Debug\\cmTC_8eb73.tlog\\unsuccessfulbuild".
+          Creazione di "cmTC_d343e.dir\\Debug\\cmTC_d343e.tlog\\unsuccessfulbuild". ├ê stato specificato "AlwaysCreate".
+          Aggiornamento timestamp di "cmTC_d343e.dir\\Debug\\cmTC_d343e.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_8eb73.dir\\Debug\\\\" /Fd"cmTC_8eb73.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vw69c6\\CheckFunctionExists.c"
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_d343e.dir\\Debug\\\\" /Fd"cmTC_d343e.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vmk8cq\\CheckFunctionExists.c"
           Microsoft (R) C/C++ Optimizing Compiler versione 19.50.35722 per x64
           Copyright (C) Microsoft Corporation. Tutti i diritti  sono riservati.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_8eb73.dir\\Debug\\\\" /Fd"cmTC_8eb73.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vw69c6\\CheckFunctionExists.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_d343e.dir\\Debug\\\\" /Fd"cmTC_d343e.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vmk8cq\\CheckFunctionExists.c"
           CheckFunctionExists.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vw69c6\\Debug\\cmTC_8eb73.exe" /INCREMENTAL /ILK:"cmTC_8eb73.dir\\Debug\\cmTC_8eb73.ilk" /NOLOGO pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-vw69c6/Debug/cmTC_8eb73.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-vw69c6/Debug/cmTC_8eb73.lib" /MACHINE:X64  /machine:x64 cmTC_8eb73.dir\\Debug\\CheckFunctionExists.obj
-        LINK : fatal error LNK1104: impossibile aprire il file 'pthreads.lib' [C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vw69c6\\cmTC_8eb73.vcxproj]
-        Compilazione progetto "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vw69c6\\cmTC_8eb73.vcxproj" (destinazioni predefinite) NON COMPLETATA.
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vmk8cq\\Debug\\cmTC_d343e.exe" /INCREMENTAL /ILK:"cmTC_d343e.dir\\Debug\\cmTC_d343e.ilk" /NOLOGO pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-vmk8cq/Debug/cmTC_d343e.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-vmk8cq/Debug/cmTC_d343e.lib" /MACHINE:X64  /machine:x64 cmTC_d343e.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: impossibile aprire il file 'pthreads.lib' [C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vmk8cq\\cmTC_d343e.vcxproj]
+        Compilazione progetto "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vmk8cq\\cmTC_d343e.vcxproj" (destinazioni predefinite) NON COMPLETATA.
         
         Compilazione NON RIUSCITA.
         
-        "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vw69c6\\cmTC_8eb73.vcxproj" (destinazione predefinita) (1) ->
+        "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vmk8cq\\cmTC_d343e.vcxproj" (destinazione predefinita) (1) ->
         (destinazione: Link) -> 
-          LINK : fatal error LNK1104: impossibile aprire il file 'pthreads.lib' [C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vw69c6\\cmTC_8eb73.vcxproj]
+          LINK : fatal error LNK1104: impossibile aprire il file 'pthreads.lib' [C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vmk8cq\\cmTC_d343e.vcxproj]
         
             Avvisi: 0
             Errori: 1
         
-        Tempo trascorso 00:00:00.31
+        Tempo trascorso 00:00:00.30
         
       exitCode: 1
   -
@@ -1427,8 +1427,8 @@ events:
     checks:
       - "Looking for pthread_create in pthread"
     directories:
-      source: "C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-hgm2oo"
-      binary: "C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-hgm2oo"
+      source: "C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-l82hpo"
+      binary: "C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-l82hpo"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -1437,41 +1437,41 @@ events:
       variable: "CMAKE_HAVE_PTHREAD_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-hgm2oo'
+        Change Dir: 'C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-l82hpo'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_870a9.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Insiders/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_fdff2.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
         Versione di MSBuild 18.3.0-preview-26055-07+fb775842a per .NET Framework
-        Compilazione avviata 17/01/2026 20:24:45.
+        Compilazione avviata 19/01/2026 15:50:00.
         
-        Progetto "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hgm2oo\\cmTC_870a9.vcxproj" sul nodo 1 (destinazioni predefinite).
+        Progetto "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l82hpo\\cmTC_fdff2.vcxproj" sul nodo 1 (destinazioni predefinite).
         PrepareForBuild:
           L'output strutturato ├¿ abilitato. La formattazione della diagnostica del compilatore rifletter├á la gerarchia degli errori. Per altri dettagli, vedere https://aka.ms/cpp/structured-output.
-          Creazione directory "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hgm2oo\\Debug\\".
-          Creazione directory "cmTC_870a9.dir\\Debug\\cmTC_870a9.tlog\\".
+          Creazione directory "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l82hpo\\Debug\\".
+          Creazione directory "cmTC_fdff2.dir\\Debug\\cmTC_fdff2.tlog\\".
         InitializeBuildStatus:
-          Creazione di "cmTC_870a9.dir\\Debug\\cmTC_870a9.tlog\\unsuccessfulbuild". ├ê stato specificato "AlwaysCreate".
-          Aggiornamento timestamp di "cmTC_870a9.dir\\Debug\\cmTC_870a9.tlog\\unsuccessfulbuild".
+          Creazione di "cmTC_fdff2.dir\\Debug\\cmTC_fdff2.tlog\\unsuccessfulbuild". ├ê stato specificato "AlwaysCreate".
+          Aggiornamento timestamp di "cmTC_fdff2.dir\\Debug\\cmTC_fdff2.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_870a9.dir\\Debug\\\\" /Fd"cmTC_870a9.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hgm2oo\\CheckFunctionExists.c"
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_fdff2.dir\\Debug\\\\" /Fd"cmTC_fdff2.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l82hpo\\CheckFunctionExists.c"
           Microsoft (R) C/C++ Optimizing Compiler versione 19.50.35722 per x64
           Copyright (C) Microsoft Corporation. Tutti i diritti  sono riservati.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_870a9.dir\\Debug\\\\" /Fd"cmTC_870a9.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hgm2oo\\CheckFunctionExists.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_fdff2.dir\\Debug\\\\" /Fd"cmTC_fdff2.dir\\Debug\\vc145.pdb" /external:W3 /TC /errorReport:queue "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l82hpo\\CheckFunctionExists.c"
           CheckFunctionExists.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hgm2oo\\Debug\\cmTC_870a9.exe" /INCREMENTAL /ILK:"cmTC_870a9.dir\\Debug\\cmTC_870a9.ilk" /NOLOGO pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-hgm2oo/Debug/cmTC_870a9.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-hgm2oo/Debug/cmTC_870a9.lib" /MACHINE:X64  /machine:x64 cmTC_870a9.dir\\Debug\\CheckFunctionExists.obj
-        LINK : fatal error LNK1104: impossibile aprire il file 'pthread.lib' [C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hgm2oo\\cmTC_870a9.vcxproj]
-        Compilazione progetto "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hgm2oo\\cmTC_870a9.vcxproj" (destinazioni predefinite) NON COMPLETATA.
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l82hpo\\Debug\\cmTC_fdff2.exe" /INCREMENTAL /ILK:"cmTC_fdff2.dir\\Debug\\cmTC_fdff2.ilk" /NOLOGO pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-l82hpo/Debug/cmTC_fdff2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/CMakeScratch/TryCompile-l82hpo/Debug/cmTC_fdff2.lib" /MACHINE:X64  /machine:x64 cmTC_fdff2.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: impossibile aprire il file 'pthread.lib' [C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l82hpo\\cmTC_fdff2.vcxproj]
+        Compilazione progetto "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l82hpo\\cmTC_fdff2.vcxproj" (destinazioni predefinite) NON COMPLETATA.
         
         Compilazione NON RIUSCITA.
         
-        "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hgm2oo\\cmTC_870a9.vcxproj" (destinazione predefinita) (1) ->
+        "C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l82hpo\\cmTC_fdff2.vcxproj" (destinazione predefinita) (1) ->
         (destinazione: Link) -> 
-          LINK : fatal error LNK1104: impossibile aprire il file 'pthread.lib' [C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hgm2oo\\cmTC_870a9.vcxproj]
+          LINK : fatal error LNK1104: impossibile aprire il file 'pthread.lib' [C:\\Users\\Nicco\\OneDrive\\Desktop\\Uni\\Esame-lab\\ShoppingListApp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l82hpo\\cmTC_fdff2.vcxproj]
         
             Avvisi: 0
             Errori: 1
         
-        Tempo trascorso 00:00:00.28
+        Tempo trascorso 00:00:00.27
         
       exitCode: 1
 ...

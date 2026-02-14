@@ -15,3 +15,4 @@ TEST(ShoppingListTest, RemoveItemDecreasesCount) {
 
     EXPECT_EQ(list.getItemCount(), 0);
 }
+

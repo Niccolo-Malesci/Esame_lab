@@ -1,4 +1,5 @@
 C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/runTests.dir
+C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/runMain.dir
 C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/INSTALL.dir
 C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/ALL_BUILD.dir
 C:/Users/Nicco/OneDrive/Desktop/Uni/Esame-lab/ShoppingListApp/build/CMakeFiles/ZERO_CHECK.dir
